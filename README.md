@@ -55,6 +55,43 @@ An ESP32-based security system designed to prevent unauthorized access to confid
 - RTC Time Management
 - Embedded Security Systems
 
+## Block Diagram
+
+The following block diagram illustrates the overall architecture of the Question Paper Leak Detection System.
+
+![Block Diagram](BLOCK%20DIAGRAM.jpg)
+
+---
+
+## PCB Design
+
+A custom PCB was designed for the power supply section of the project.
+
+### PCB Layout Files
+
+- [Power Supply PCB Layout](power%20supply%20layout.pdf)
+
+### PCB Top View
+
+![PCB Top View](power_supply_top_view.jpeg)
+
+### PCB Bottom View
+
+![PCB Bottom View](power_suppy_bottom_view.jpeg)
+
+### PCB 3D View
+
+![PCB 3D View](power_supply_3d_view.jpeg)
+
+---
+
+## Project Files
+
+- Source Code: `FinalWorkingProgramWIthSolenoid.ino`
+- Block Diagram: `BLOCK DIAGRAM.jpg`
+- PCB Layout PDF: `power supply layout.pdf`
+- PCB Images: Top View, Bottom View, and 3D View
+
 ## Future Enhancements
 - Cloud-based monitoring dashboard
 - Biometric authentication
